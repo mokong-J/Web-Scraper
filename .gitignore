@@ -1,0 +1,12 @@
+# 虚拟环境
+.venv/
+
+# 运行产物：抓取数据与进度（可随时由脚本重新生成）
+output/
+progress/
+
+# Python 运行缓存
+__pycache__/
+
+# Excel 打开时的临时文件
+~$*
