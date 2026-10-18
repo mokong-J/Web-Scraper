@@ -10,3 +10,9 @@ __pycache__/
 
 # Excel 打开时的临时文件
 ~$*
+
+# 文章素材：与项目运行无关，不入库
+docs/我写了个爬虫-1000条数据5分钟抓完还不会崩.md
+docs/crawler_article_cover.jpg
+docs/resources/
+docs/项目练习/

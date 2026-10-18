@@ -33,6 +33,9 @@
 - `progress/failed_book.txt`、`failed_movie.txt`、`spa_failed.txt`：失败登记（页号 + URL，各站独立命名，互不污染）
 - `docs/books_report.txt`、`movie_report.txt`、`spa_movie_report.txt`：数据质量报告（每次运行覆盖刷新）
 
+![运行效果：重试 3 次失败后登记清单并体面停止](./docs/screenshot1.png)
+
+![运行效果：断点续跑跳过已完成页，50 页共 1000 条](./docs/screenshot2.png)
 ## 怎么运行
 
 ```powershell
